@@ -1,6 +1,5 @@
 package br.gov.sp.fatec.projetotopicos.controller;
 import com.fasterxml.jackson.core.JsonProcessingException;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
